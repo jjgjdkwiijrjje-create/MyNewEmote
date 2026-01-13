@@ -1,1 +1,1 @@
-# MyNewEmote
+# EMOTE-BOT
